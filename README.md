@@ -8,7 +8,7 @@ Having worked as an iOS developer for several years I knew there isn't any such 
 
 And there is also [awesome-ios](https://github.com/vsouza/awesome-ios) by [Vinicius Souza](https://github.com/vsouza). So I don't want to recreate it. 
 
-However, I definitely see something in all of the above resources. A community driven single point. I hope **iOS Cosmos** helps to solve this.
+However, I definitely see something is missing in all of the above resources. A community driven single point reference. I hope **iOS Cosmos** helps to solve this.
 
 ### Getting started with Xcode
 
