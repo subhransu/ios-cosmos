@@ -1,6 +1,6 @@
 ## Idea behind iOS Cosmos
 
-Couple of months ago a friend of mine asked me if there is just a single place where he can find everything he needs to know about iOS development. He was looking for something that will help him get started not only with iOS development APIs or frameworks but also find out what it takes to build a complete product. 
+Few months ago, a friend of mine asked me if there is a single place where he can find everything he needs to know about iOS development. He was looking for something that will help him get started not only with iOS development APIs or frameworks but also find out what it takes to build a complete product. 
 
 He was interested to find out what are our choice of tools for Contineous Integration and what do we use to distribute our apps to beta testers, what are the security guidelines the community recommends. 
 
