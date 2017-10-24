@@ -32,21 +32,25 @@ However, I definitely see something is missing in all of the above resources. A 
 * [Mobile Device Management (MDM)](#mdm)
 * [Building Enterprise Apps](#enterprise)
 
-### Getting started with Xcode<a name="xcode"></a>
+<a name="xcode"></a>
+### Getting started with Xcode
 
 - [Xcode](https://developer.apple.com/xcode/)
 
-### Language used for iOS development<a name="languages"></a>
+<a name="languages"></a>
+### Language used for iOS development
 
 - [Swift](https://developer.apple.com/swift/)
 - [Objective-C](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 
-### Dependency Manager<a name="dependency_manager"></a>
+<a name="dependency_manager"></a>
+### Dependency Manager
 
 - [Cocoapods](https://cocoapods.org)
 - [Carthage](https://github.com/Carthage/Carthage)
 
-### iOS Architecture & Design Patterns<a name="arch_patterns"></a>
+<a name="arch_patterns"></a>
+### iOS Architecture & Design Patterns
 
 * [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
 * [Model-View-Controller](https://developer.apple.com/library/content/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
@@ -56,46 +60,54 @@ However, I definitely see something is missing in all of the above resources. A 
 * [Model-View-Presenter](https://www.smashingmagazine.com/2016/05/better-architecture-for-ios-apps-model-view-controller-pattern/)
 * [iOS Design Patterns - Course](https://www.raywenderlich.com/164993/new-course-ios-design-patterns)
 
-### Building UI<a name="building_ui"></a>
+<a name="building_ui"></a>
+### Building UI
 
 - [Storyboard](https://developer.apple.com/library/content/documentation/General/Conceptual/Devpedia-CocoaApp/Storyboard.html)
 - [Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 - [Auto Layout](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/index.html)
 - [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)
 
-### Writing Tests<a name="tests"></a>
+<a name="tests"></a>
+### Writing Tests
 
 - [Testing with Xcode](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html)
 
-**Unit Tests**<a name="unit_tests"></a>
+<a name="unit_tests"></a>
+**Unit Tests**
 
 - [Quick](https://github.com/Quick/Quick)
 - [Nimble](https://github.com/Quick/Nimble)
 - [XCTest](https://developer.apple.com/documentation/xctest)
 - [Test coverage reports using Slather](https://github.com/SlatherOrg/slather)
 
-**UI Tests**<a name="ui_tests"></a>
+<a name="ui_tests"></a>
+**UI Tests**
 
 - [UI Testing with XCUITest](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/09-ui_testing.html)
 - [Calabash](http://calaba.sh)
 - [Testing with Frank](http://testingwithfrank.github.io)
 
-**Device Farm**<a name="device_farm"></a>
+<a name="device_farm"></a>
+**Device Farm**
 - [AWS Device Farm](https://aws.amazon.com/device-farm/)
 - [Xamarin Test Cloud](https://www.xamarin.com/test-cloud)
 
-### Crash Analytics<a name="crash_analytics"></a>
+<a name="crash_analytics"></a>
+### Crash Analytics
 
 - [Fabric Crashlytics](https://fabric.io/kits/ios/crashlytics)
 - [Sentry](https://sentry.io)
 
-### Usage Analytics<a name="usage_analytics"></a>
+<a name="usage_analytics"></a>
+### Usage Analytics
 
 - [Answers by Fabric](https://fabric.io/kits/ios/answers)
 - [Google Analytics](https://developers.google.com/analytics/devguides/collection/firebase/ios/)
 - [Flurry iOS SDK](https://github.com/flurry/flurry-ios-sdk)
 
-### Continuous Integration Tools<a name="ci"></a>
+<a name="ci"></a>
+### Continuous Integration Tools
 
 - [Continuous Integration with Xcode](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/xcode_guide-continuous_integration/)
 - [Fastlane](https://fastlane.tools)
@@ -103,53 +115,62 @@ However, I definitely see something is missing in all of the above resources. A 
 - [Travis](https://travis-ci.com)
 - [Bitrise](https://www.bitrise.io)
 
-### Continuous Deployment and Beta Testing<a name="cd"></a>
+<a name="cd"></a>
+### Continuous Deployment and Beta Testing
 
 - [Test Flight](https://developer.apple.com/testflight/)
 - [HockeyApp](https://hockeyapp.net)
 - [applivery](http://applivery.com)
 
-### A/B Testing<a name="ab_testing"></a>
+<a name="ab_testing"></a>
+### A/B Testing
 
 - [Optimizely](https://www.optimizely.com)
 - [Firebase Remote Config](https://firebase.google.com/docs/remote-config/)
 - [Taplytics](https://taplytics.com/mobile-ab-testing/)
 
-### Code Quality & Standards<a name="code_quality"></a>
+<a name="code_quality"></a>
+### Code Quality & Standards
 
 - [Swiftlint](https://github.com/realm/SwiftLint)
 - [Sonarqube](https://www.sonarqube.org)
 - [Danger](https://github.com/danger/danger)
 
-### Automated Security Scanning<a name="security"></a>
+<a name="security"></a>
+### Automated Security Scanning
 
 - [AppKnox](https://www.appknox.com)
 - [Data Theorem](https://www.datatheorem.com)
 - [AppWatch](http://appwatch.io)
 
-### Performance / Memory Testing<a name="performance"></a>
+<a name="performance"></a>
+### Performance / Memory Testing
 
 - [Xcode Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/index.html)
 - [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler)
 
-### Localization (l10n) / Internationalization (i18n)<a name="i18n"></a>
+<a name="i18n"></a>
+### Localization (l10n) / Internationalization (i18n)
 
 - [Internationalization](https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPInternational/Introduction/Introduction.html)
 - [Data Formatting Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/DataFormatting/DataFormatting.html)
 
-### Accessibility<a name="accessibility"></a>
+<a name="accessibility"></a>
+### Accessibility
 
 - [Supporting Accessibility](https://developer.apple.com/library/content/featuredarticles/ViewControllerPGforiPhoneOS/SupportingAccessibility.html)
 - [Testing Accessibility](https://developer.apple.com/library/content/technotes/TestingAccessibilityOfiOSApps/TestingtheAccessibilityofiOSApps/TestingtheAccessibilityofiOSApps.html)
 - [Accessibility on iOS](https://developer.apple.com/accessibility/ios/) 
 
-### Mobile Device Management (MDM)<a name="mdm"></a>
+<a name="mdm"></a>
+### Mobile Device Management (MDM)
 
 - [Jamf](https://www.jamf.com/solutions/)
 - [Apple Deployment Program](https://deploy.apple.com)
 - [MobileIron](https://www.mobileiron.com)
 
-### Building Enterprise Apps<a name="enterprise"></a>
+<a name="enterprise"></a>
+### Building Enterprise Apps
 
 - [SAP Mobile Platform](https://www.sap.com/sea/products/mobile-app-development-platform.html)
 - [IBM Worklight](https://www.ibm.com/support/knowledgecenter/en/SSZH4A_6.0.0/com.ibm.worklight.getstart.doc/topics/c_overview.html)
